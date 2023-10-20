@@ -1,35 +1,3 @@
-# Instructions
-
-— Full-stack assignment —
-You’re going to create a website where users can sign up for a newsletter containing two pages:
-
-Page 1
-    ●  A minimalistic page containing a form where users can sign up for the newsletter.
-    ●  The form should include the following information:
-            ୦  Name
-            ୦  Email
-            ୦  Date of birth (simple text input in the format YYYY-MM-DD)
-Page 2
-    ●  A minimalistic page containing a list that shows all of the users who’ve signed up for the newsletter.
-    ●  The list should include:
-            ୦  Name
-            ୦  Email
-            ୦  Age
-
-Some general information:
-    ●  Illustrations could be drawn here (https://jamboard.google.com/d/14t_pBA-835OylWtkeLJv51CI5rC0BfPoMhaAnslbpgk/edit?usp=sharing) as a tool to explain your thoughts.
-    ●  You should share your working screen.
-    ●  You are encouraged to look things up on the internet if you're not sure how to solve a task.
-
-Frågor man kan ställa under dötid
-Reflektioner kring val av teknologi
-
-Bedömning
-Ställer kandidated förtydligande frågor?
-Viktiga inte att man blir klar, utan processen dit
-
-
-
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
